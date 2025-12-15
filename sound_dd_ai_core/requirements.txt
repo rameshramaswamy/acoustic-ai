@@ -1,0 +1,14 @@
+torch==2.1.0 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu118
+numpy
+mlflow
+redis
+boto3
+psycopg2-binary
+apache-airflow-providers-amazon
+apache-airflow-providers-cncf-kubernetes 
+structlog 
+pydantic-settings 
+tenacity 
+onnxruntime-gpu==1.17.0 
+numpy
